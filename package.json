@@ -1,0 +1,32 @@
+{
+  "name": "ecomm_cars",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "buffer": "^6.0.3",
+    "graceful-fs": "^4.2.11",
+    "next": "latest",
+    "node-fetch": "^3.3.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.3"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "encoding": "^0.1.13",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
